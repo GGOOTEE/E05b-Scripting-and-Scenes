@@ -1,7 +1,5 @@
 extends RigidBody2D
 
-
-
 export var maxspeed = 300
 
 signal lives
